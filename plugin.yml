@@ -1,0 +1,8 @@
+name: RandomNetherTeleport
+main: de.greenman1805.randomnetherteleport.Main
+version: 1.0
+author: Greenman1805
+
+commands:
+  rnt:
+    description: RandomNetherTeleport
